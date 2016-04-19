@@ -1,5 +1,11 @@
 #!/bin/bash
 
+
+# By: Muhammad Ilyas
+# Email: M_ilyas@outlook.com
+
+
+
 #system update 
 sudo apt-get update
 #system upgdate
